@@ -2,8 +2,7 @@
 --- 
 
 <details>
-<summary><span style="color:blue"><h1>1С: Фитнес-клуб</h1></span></summary>
-
+<summary><h1>1С: Фитнес-клуб</h1></summary>
 
 ### ⬥ Рабочее
 
@@ -33,9 +32,8 @@ http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger
 http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger_release
 ```
 </details>
-
 <details>
-<summary><span style="color:cyan"><h1>1С: Стоматологическая клиника</h1></span></summary>
+<summary><h1>1С: Стоматологическая клиника</h1></summary>
 
 ### ⬥ Рабочее
 
@@ -65,10 +63,8 @@ http://192.168.2.16/hran1c/repository.1ccr/stomatology2_messenger_release
 http://192.168.2.16/hran1c/repository.1ccr/stomatology2_shedule
 ```
 </details>
-
 <details>
-<summary><span style="color:orange"><h1>1С: Салон красоты</h1></span></summary>
-
+<summary><h1>1С: Салон красоты</h1></summary>
 
 ### ⬥ Рабочее
 
