@@ -2,21 +2,21 @@
 --- 
 
 <details>
-<summary><h1>1С: Фитнес-клуб</h1></summary>
+<summary><span style="color:blue"><h1>1С: Фитнес-клуб</h1></span></summary>
 
 
-### 🟢Рабочее
+### ⬥ Рабочее
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/fitness4
 ```
-### 🟡Релизное
+### ⬥ Релизное
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/fitness_release
 ```
 
-### 🔵Релизное ПРОФ
+### ⬥ Релизное ПРОФ
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/fitness_release_prof
@@ -35,14 +35,14 @@ http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger_release
 </details>
 
 <details>
-<summary><h1>1С: Стоматологическая клиника</h1></summary>
+<summary><span style="color:cyan"><h1>1С: Стоматологическая клиника</h1></span></summary>
 
-### 🟢Рабочее
+### ⬥ Рабочее
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/stomatology2
 ```
-### 🟡Релизное
+### ⬥ Релизное
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/stomatology2_release
@@ -67,15 +67,15 @@ http://192.168.2.16/hran1c/repository.1ccr/stomatology2_shedule
 </details>
 
 <details>
-<summary><h1>1С: Салон красоты</h1></summary>
+<summary><span style="color:orange"><h1>1С: Салон красоты</h1></span></summary>
 
 
-### 🟢Рабочее
+### ⬥ Рабочее
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/salon_spa_2
 ```
-### 🟡Релизное
+### ⬥ Релизное
 
 ```bash
 http://192.168.2.16/hran1c/repository.1ccr/salon_release
