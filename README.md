@@ -2,6 +2,7 @@
 
 <details>
 <summary><h1>1С: Фитнес-клуб</h1></summary>
+</details>
 
 ### Рабочее
 
@@ -31,9 +32,9 @@ http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger
 http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger_release
 ```
 
-
 <details>
 <summary><h1>1С: Стоматологическая клиника</h1></summary>
+</details>
 
 ### Рабочее
 
@@ -64,6 +65,7 @@ http://192.168.2.16/hran1c/repository.1ccr/stomatology2_shedule
 ```
 <details>
 <summary><h1>1С: Салон красоты</h1></summary>
+</details>
 
 ### Рабочее
 
