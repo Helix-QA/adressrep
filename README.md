@@ -33,7 +33,7 @@ http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger
 http://192.168.2.16/hran1c/repository.1ccr/fitness4_messenger_release
 ```
 </details>
-
+--- 
 <details>
 <summary><h1>1С: Стоматологическая клиника</h1></summary>
 
@@ -65,7 +65,7 @@ http://192.168.2.16/hran1c/repository.1ccr/stomatology2_messenger_release
 http://192.168.2.16/hran1c/repository.1ccr/stomatology2_shedule
 ```
 </details>
-
+---
 <details>
 <summary><h1>1С: Салон красоты</h1></summary>
 
